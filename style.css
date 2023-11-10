@@ -88,7 +88,7 @@
 }
 .slide_con
 {
-    background-image: url("images/back.jpg");
+    background-image: url("back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -206,7 +206,7 @@
 /*------------------------------------------------MAIN----------------------------------------*/
 .main
 {
-    background-image: url("images/back.jpg");
+    background-image: url("back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -405,7 +405,7 @@
 /*--------------------------------------------FEED----------------------------------------*/
 .feed
 {
-    background-image: url("images/feed.jpg");
+    background-image: url("feed.jpg");
     background-size:cover;
     padding: 50px;
     text-align: center;
